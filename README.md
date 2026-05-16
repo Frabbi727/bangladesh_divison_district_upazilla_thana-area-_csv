@@ -1,5 +1,3 @@
-# bangladesh_divison_district_upazilla_thana-area-_csv
-
 # 🇧🇩 Bangladesh Geo Data — Division, District, Upazila & Union
 
 A **complete** and **community-friendly** dataset of Bangladesh's administrative geography including all **City Corporation Thanas** (Gulshan, Banani, Dhanmondi, Agrabad, Boalia etc.) that are missing from most other datasets.
